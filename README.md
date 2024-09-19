@@ -41,4 +41,27 @@ To run the games, you need to have Python installed along with the following pac
     ```bash
     pip install pygame numpy
 
+## Usage
+## AI Version
+
+3. **To play against the AI, run the main.py script**:
+   ```bash
+   python main.py
+4. **Multiplayer Version To play in multiplayer mode, run the game.py script**:
+   ```bash
+   python game.py
+
+## How to Play
+
+## AI Version
+1. The game starts with the AI making its move.
+2. Click on a column to drop your disc.
+3. The game will alternate between your moves and the AI's moves.
+4. The game ends when a player connects four discs in a row, and a message will be displayed.
+## Multiplayer Version
+1. Player 1 (Red) and Player 2 (Yellow) take turns to click on a column to drop their discs.
+2. The game will alternate between Player 1 and Player 2.
+3. The game ends when one player connects four discs in a row, and a winning message will be displayed.
+   
+
     
