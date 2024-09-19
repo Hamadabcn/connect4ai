@@ -47,7 +47,7 @@ To run the games, you need to have Python installed along with the following pac
 3. **To play against the AI, run the main.py script**:
    ```bash
    python main.py
-4. cMultiplayer Version To play in multiplayer mode, run the game.py script**:
+4. **Multiplayer Version To play in multiplayer mode, run the game.py script**:
    ```bash
    python game.py
 
