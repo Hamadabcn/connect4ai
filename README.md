@@ -47,13 +47,13 @@ To run the games, you need to have Python installed along with the following pac
 3. **To play against the AI, run the main.py script**:
    ```bash
    python main.py
-4. **Multiplayer Version To play in multiplayer mode, run the game.py script**:
+4. cMultiplayer Version To play in multiplayer mode, run the game.py script**:
    ```bash
    python game.py
 
 ## How to Play
 
-## AI Version
+**AI Version**
 1. The game starts with the AI making its move.
 2. Click on a column to drop your disc.
 3. The game will alternate between your moves and the AI's moves.
