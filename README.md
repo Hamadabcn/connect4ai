@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/589f1af1-37e7-49ea-93f4-489b18767604
+
 # Connect 4 Game Repository
 
 Welcome to the Connect 4 Game repository! This project contains two versions of the classic Connect 4 game: one with an AI opponent and one for multiplayer play. The game is implemented in Python using the Pygame library and utilizes NumPy for game logic.
