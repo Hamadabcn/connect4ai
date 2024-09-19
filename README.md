@@ -37,3 +37,6 @@ To run the games, you need to have Python installed along with the following pac
    ```bash
    git clone https://github.com/Hamadabcn/connect4ai.git
    cd connect4ai
+2. **Install the required packages**:
+    ```bash
+    You can install the required packages using pip. It is recommended to use a virtual environment to manage dependencies.
