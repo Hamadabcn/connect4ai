@@ -55,13 +55,9 @@ To run the games, you need to have Python installed along with the following pac
 
 ## AI Version
 1. **The game starts with the AI making its move**.
-   ```bash
-3. **Click on a column to drop your disc**.
-   ```bash
-5. **The game will alternate between your moves and the AI's moves**.
-   ```bash
-7. **The game ends when a player connects four discs in a row, and a message will be displayed**.
-   ```bash
+2. **Click on a column to drop your disc**.
+3. **The game will alternate between your moves and the AI's moves**.
+4 **The game ends when a player connects four discs in a row, and a message will be displayed**.
 ## Multiplayer Version
 1. **Player 1 (Red) and Player 2 (Yellow) take turns to click on a column to drop their discs**.
 2. **The game will alternate between Player 1 and Player 2**.
